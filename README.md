@@ -4,8 +4,9 @@ TODO:// CodePath prework
 
 Submitted by Blessing Ngara
 App Walk-though
+https://github.com/ngarable/codepath-prework/blob/main/Screen_Recording_2023-02-05_at_12_46_00_PM_AdobeExpress-2.gif
 
-https://github.com/ngarable/codepath-prework.git
+
 
 
 
